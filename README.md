@@ -7,5 +7,3 @@ My passion for coding began in 2017 when I started exploring the fascinating wor
 ### What You'll Find Here
 
 On my profile, you'll find projects I've worked on throughout my journey as a programmer, ranging from simple tools to more advanced applications. Feel free to explore my work and collaborate on exciting projects together!
-
-Generated with assistance from ChatGPT. :D
